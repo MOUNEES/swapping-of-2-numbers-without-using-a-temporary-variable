@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+int m,n;
+printf("give me the value of m:");
+scanf("%d", &m);
+printf ("give me the value of n:");
+scanf("%d", &n);
+printf( "m+n=%d\n",m+n);
+printf("m-n=%d\n",m-n);
+return 0;
+}
